@@ -1,5 +1,5 @@
-                                                     # Payment-Gateway-Integration
-                                                 The Sparks Foundation Internship Project - 
+                                          # Payment-Gateway-Integration
+                                         The Sparks Foundation Internship Project - 
 
 TASK NO. 3 :-  Payment Gateway Integation
 
